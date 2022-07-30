@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: A Propos de l'auteur 
+subtitle: (c'est moi)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Bonjour et bienvenue sur mon blog.  Ici, je partage mes astuces, mes galères et réflexions.  Je considère que le savoir ne vaut rien s''il n''est pas transmis, c''est pourquoi je vais partager mes notes, mes bouts de code, des sujets sécurité ou tout autre sujet que je trouverais intéressant de partager. Ce qui est écrit ici n''engage que moi, bonne visite :)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Les sources de ce blog sont en libre-accès sur
+[mon dépôt Github](https://techlifejacket.github.io/).
