@@ -125,6 +125,8 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
+
+
 ######################################
 # --- Colours / background image --- #
 ######################################
@@ -160,6 +162,9 @@ footer-hover-col: "#0085A1"
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
 #  - "/assets/js/custom-script.js"
+
+# Dark Mode
+#site-css: https://beautifuljekyll.com/pro/dark-mode.min.css
 
 #################################
 # --- Web Analytics Section --- #
