@@ -35,30 +35,27 @@ Les actifs les plus couramment ciblés par les ransomwares sont les fichiers et 
 Le cycle de vie des ransomwares est resté inchangé jusqu'en 2018 environ, lorsque les ransomwares ont commencé à ajouter plus de fonctionnalités et que les techniques de chantage ont mûri. 
 Il y a cinq étapes dans une attaque par rançongiciel : accès initial, exécution, action sur les objectifs, chantage et négociation de la rançon. Ces étapes ne suivent pas un cheminement strictement séquentiel. 
 
-**Ne négociez jamais avec les cybercriminels, ne payez pas de rançon, vous ne faîtes qu'alimenter leur businness. Bien souvent, ils ne sont pas capables de vous fournir d'outil pour déchiffrer complètement vos données.**
-
 Contacter l'autorité compétente en matière de cybersécurité et/ou les forces de l'ordre est l'approche recommandée pour gérer de tels incidents (en France, contactez l'ANSSI). 
 
 ![LIFECYCLE](/assets/img/posts/2022/07/31/enisa-ransomware-lifecycle.png)
 
 # Résumé du rapport ENISA 2022
 
-Ce rapport sur le paysage des menaces a analysé un total de 623 incidents de ransomwares dans l'UE, au Royaume-Uni et aux États-Unis sur une période allant de mai 2021 à juin 2022. Les données ont été recueillies à partir de rapports des gouvernements, d'entreprises du milieu cyber, de la presse, de blogs et, dans certains cas, en utilisant des sources connexes du dark web.
+Ce rapport sur le paysage des menaces a analysé un total de 623 incidents de type rançongiciel dans l'UE, au Royaume-Uni et aux États-Unis sur une période allant de mai 2021 à juin 2022. Les données ont été recueillies à partir de rapports provenant d'agences gouvernementales (comme l'ANSSI en France), d'entreprises du milieu cyber, de la presse, de blogs et, dans certains cas, en utilisant des sources du dark web.
 
 Entre mai 2021 et juin 2022, environ 10 téraoctets de données ont été volés chaque mois par des pirates informatiques. 58,2 % des données volées incluaient les données personnelles des employés.
 
-Au moins 47 acteurs uniques de menace de ransomware ont été trouvés.
+Au moins 47 acteurs cybercriminels opérant des attaques par ont été trouvés.
 
-Pour 94,2 % des incidents, on ne sait pas si l'entreprise a payé la rançon ou non. Cependant, lorsque la négociation échoue, les attaquants exposent et rendent généralement les données disponibles sur leurs pages Web. C'est ce qui se passe en général et c'est une réalité pour 37,88% des incidents.
+Pour 94,2 % des incidents, on ne sait pas si l'entreprise a payé la rançon ou non. Cependant, lorsque la négociation échoue, les attaquants exposent les données disponibles sur leurs sites Web. C'est ce qu'il se passe en général et c'est une réalité pour 37,88% des incidents.
 
-On peut donc conclure que les 62,12% d'entreprises restantes sont soit parvenues à un accord avec les attaquants, soit ont trouvé une autre solution.
+On peut donc conclure que les 62,12% d'entreprises restantes sont soit parvenues à un accord avec les attaquants, soit ont trouvé une autre solution. **Ne négociez jamais avec les cybercriminels, ne payez pas de rançon, vous ne faîtes qu'alimenter leur businness. Bien souvent, ils ne sont pas capables de vous fournir d'outil pour déchiffrer complètement vos données.**
 
 L'étude montre également que des entreprises de toutes tailles et de tous secteurs sont concernées.
 
-
 # Bonus : Le cas KASEYA
 
-*Travaillant pour un MSP à l'heure où j'écris ces lignes, ce sujet m'intéresse tout particulièrement.*
+*Travaillant pour une entreprise de type MSP à l'heure où j'écris ces lignes, ce sujet m'intéresse tout particulièrement.*
 
 Kaseya est une plate-forme de surveillance et de gestion à distance (RMM). Leurs produits sont installés sur les postes de travail clients, les serveurs de gestion des terminaux gérés par des fournisseurs de services gérés (MSP). Un incident en juillet 2021 a entraîné la compromission et le chiffrement de plus de 50 MSP et entre 800 et 1 500 entreprises. Les cyberciminels à l'origine de l'attaque ont exigé de Kaseya et indirectement de ses clients, la somme de 70 millions de dollars en échange d'un outil de déchiffrement de fichiers qui permettrait la restauration des actifs concernés.
 
