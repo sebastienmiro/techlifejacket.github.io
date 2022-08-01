@@ -1,7 +1,6 @@
 ---
 title: "Création du blog, premier tuto avec Jekyll"
 date: 2022-07-27 23:27:00:00 +01:00
-author: seb
 layout: post
 tags: jekyll
 categories: tuto
