@@ -6,7 +6,7 @@ tags: [enisa,ransomware,leds]
 categories: cybersécurité
 readtime: true
 comments: true
-cover-img: "assets/img/banners/ransomware-banner.png"
+cover-img: "assets/img/banners/rcybersec.jpeg"
 thumbnail-img: assets/img/posts/2022/07/31/enisa-logo-png.png
 ---
 
