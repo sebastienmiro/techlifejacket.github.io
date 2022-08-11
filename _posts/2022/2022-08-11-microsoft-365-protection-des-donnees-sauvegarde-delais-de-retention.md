@@ -3,7 +3,7 @@ title: "Microsoft 365 - Protection des données, sauvegarde et délais de réten
 date: 2022-08-11 09:34:00:00 +01:00
 layout: post
 tags: [m365,sauvegarde,conformité]
-categories: Microsoft 365
+categories: [Microsoft 365]
 readtime: true
 comments: true
 cover-img: "assets/img/banners/office-365-banner.png"
