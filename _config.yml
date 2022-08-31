@@ -257,7 +257,7 @@ date_format: "%-d/%m/%Y"
 # Homepage
 homepage:
   header-text: 'TechLifeJacket : mon blog gilet de sauvetage'
-  intro-text: 'Bonjour et bienvenue sur mon blog.  Ici, je partage mes astuces, mes galères et réflexions.  Je considère que le savoir ne vaut rien s''il n''est pas transmis, c''est pourquoi je vais essayer de partager mes notes, mes bouts de code ou tout autre truc intéressant en essayant de soigner un minimum la rédaction. Ce qui est écrit ici n''engage que moi, bienvenue dans ma tête :)'
+  intro-text: 'Bonjour et bienvenue sur mon blog.  Ici, je partage mes astuces, mes galères et réflexions personnelles. Je considère que le savoir ne vaut rien s''il n''est pas transmis, c''est pourquoi je vais essayer de partager mes notes, des bouts de code Powershell ou tout autre truc intéressant en essayant de soigner un minimum la rédaction. Ce qui est écrit ici n''engage que moi :)'
 
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
