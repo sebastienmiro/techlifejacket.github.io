@@ -31,7 +31,8 @@ En utilisant les informations du tableau ci-dessus, voici un exemple d’enregis
 ```
 v=DMARC1; p=quarantine; rua=mailto:dmarc@entreprise.fr; adkim=s; aspf=s
 ```
-# Implémenter une politique DMARC (phase BUILD) ?
+
+# Implémenter une politique DMARC (phase BUILD)
 
 La mise en oeuvre de DMARC suit un processus itératif d'amélioration continue (*PDCA*). Le schéma ci-dessous vous permettra de réaliser une mise en oeuvre contrôlée qui n'affectera pas la délivrabilité de vos courriers de manière négative. Ces étapes sont généralistes et doivent être adaptées à votre situation particulière. 
 
