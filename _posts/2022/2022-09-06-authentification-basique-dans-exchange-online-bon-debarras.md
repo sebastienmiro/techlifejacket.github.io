@@ -53,8 +53,8 @@ Pour ceux qui se retrouveraient devant le fait accompli, Microsoft vous offre un
 
 # Tout ça pour quoi ?
 
-C'est tout simplement une question élémentaire de sécurité : même si la connexion aux services de Microsoft 365 s'effectuent grâce à HTTPS, les identifiants de connexion au serveur sont transmis en clair par le service ou l'utilisateur essayent de se connecter. Cela vous rend vulnérable certaines attaques comme [T0830 Man in the Middle](https://attack.mitre.org/techniques/T0830/).
+C'est tout simplement une question élémentaire de sécurité : même si la connexion aux services de Microsoft 365 s'effectue grâce à HTTPS, les identifiants de connexion au serveur sont transmis en clair par le service ou l'utilisateur essayent de se connecter. Cela vous rend vulnérable certaines attaques comme [T0830 Man in the Middle](https://attack.mitre.org/techniques/T0830/).
 
 Pour migrer vos charges de travail et applications s'appuyant sur l'authentification basique, utilisez des jetons OAuth ayant une durée de vie limitée dans le temps. Ces jetons ont l'avantage de ne pas pouvoir être utilisés pour s'authentifier sur les services autres que ceux pour lesquels ils ont été générés initialement.
 
-Si cela peut vous être utile, la [docuementation permettant de désactiver l'authentification basique se trouve ici](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/disable-basic-authentication-in-exchange-online?WT.mc_id=AZ-MVP-5004580). Bon courage :-)
+Si cela peut vous être utile, la [documentation permettant de désactiver l'authentification basique se trouve ici](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/disable-basic-authentication-in-exchange-online?WT.mc_id=AZ-MVP-5004580). Bon courage :-)
