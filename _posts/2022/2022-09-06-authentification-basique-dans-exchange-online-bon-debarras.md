@@ -3,7 +3,7 @@ title: "Authentification basique dans Exchange Online : fin du game."
 date: 2022-09-06 21:23:00:00 +02:00
 layout: post
 tags: [Office 365,exchange online,microsoft]
-categories: [annonces]
+categories: [Microsoft 365]
 readtime: true
 comments: true
 cover-img: "assets/img/banners/office-365-banner.png"
