@@ -59,7 +59,7 @@ social-network-links:
   email: "seb@techlifejacket.net"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
-  github: techlifejacket
+  github: sebastienmiro
 #  twitter: yourname
 #  patreon: yourname
 #  youtube: c/yourname
@@ -103,7 +103,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "techlifejacket.github.io"
+url-pretty: "sebastienmiro.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -239,7 +239,7 @@ footer-hover-col: "#0085A1"
 # See more details about giscus and each of the following parameters at https://giscus.app
 giscus:
   hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
-  repository: "techlifejacket/techlifejacket.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository: "sebastienmiro/sebastienmiro.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
   repository-id: "R_kgDOHvPzrQ" # ID of your repository, retrieve this info from https://giscus.app
   category: Comments # Category name of your GitHub Discussion posts
   category-id: "DIC_kwDOHvZ67s4CQhWt" # ID of your category, retrieve this info from https://giscus.app
